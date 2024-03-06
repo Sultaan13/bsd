@@ -1,0 +1,2 @@
+# bsd
+Tea testnett
